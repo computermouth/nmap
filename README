@@ -1,0 +1,2 @@
+sudo flatpak update --commit=1bd1d461eb15787d88f4aef3c680d17e5d05d4c87ae9bc3178bb9250d20af174 org.blender.Blender
+flatpak mask org.blender.Blender
